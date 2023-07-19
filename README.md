@@ -7,5 +7,6 @@
   - [Configuration file](https://github.com/bavichugo/quick-script/blob/main/src/firebase/auth.jsx)
   - [Sign Up, Sign In, Log Out, and Sign In With Google](https://github.com/bavichugo/quick-script/blob/main/src/firebase/auth.jsx)
 
-  ### Firestore (adding, deleting, updating)
+  ### Firestore and Storage (Firebase)
+  - [Adding, deleting, updating, and uploading files to firebase](https://github.com/bavichugo/quick-script/blob/main/src/firebase/docs.jsx)
   
