@@ -9,4 +9,9 @@
 
   ### Firestore and Storage (Firebase)
   - [Adding, deleting, updating, and uploading files to firebase](https://github.com/bavichugo/quick-script/blob/main/src/firebase/docs.jsx)
-  
+
+  ### Reusable Navigation Component
+
+  ### Responsive NextJS 13 Layout (navigation, content, footer)
+
+  ### Setting up Auth in NextJS 13
