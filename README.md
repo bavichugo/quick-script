@@ -11,6 +11,7 @@
   - [Adding, deleting, updating, and uploading files to firebase](https://github.com/bavichugo/quick-script/blob/main/src/firebase/docs.jsx)
 
   ### Reusable Navigation Component
+  - [NavBars](https://github.com/bavichugo/quick-snippets/tree/main/src/components/NavBar)
 
   ### Responsive NextJS 13 Layout (navigation, content, footer)
 
