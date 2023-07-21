@@ -1,7 +1,5 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
+import Navbar1 from '@/components/NavBar/NavBar1'
 
 export const metadata = {
   title: 'Quick Script',
@@ -11,8 +9,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        {/* Navbar */}
+      <body className='bg-black'>
+        <Navbar1 />
         {children}
         {/* Content */}
         {/* Footer */}
