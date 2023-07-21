@@ -16,3 +16,7 @@
   ### Responsive NextJS 13 Layout (navigation, content, footer)
 
   ### Setting up Auth in NextJS 13
+
+ ## Helpful Websites
+ - [Flowbite](https://flowbite.com/docs/getting-started/introduction/)https://flowbite.com/docs/getting-started/introduction/)
+   Flowbite has reusable component code that can be used as inspiration to create your own components 
