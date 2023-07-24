@@ -1,11 +1,11 @@
 "use client";
 import Link from "next/link";
-import logo from "./logo.png";
+import logo from "../../assets/logo.png";
 import Image from "next/image";
 import { useState } from "react";
 import { usePathname } from "next/navigation"
 
-const navItems = [
+const NAV_ITEMS = [
   {
     name: "Home",
     link: "/",
@@ -76,7 +76,7 @@ const Navbar1 = () => {
           id="navbar-default"
         >
           <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 borde rounded-lg md:flex-row md:space-x-8 md:mt-0 md:border-0 bg-gray-800 md:bg-gray-900 border-gray-700">
-            {navItems.map((item) => {
+            {NAV_ITEMS.map((item) => {
               return (
                 <NavLink key={item.link} name={item.name} link={item.link} pathname={pathname}/>
               );
