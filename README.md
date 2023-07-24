@@ -12,6 +12,12 @@
 
   ### Reusable Navigation Component
   - [NavBars](https://github.com/bavichugo/quick-snippets/tree/main/src/components/NavBar)
+ 
+  ### Reusable Footer Components
+  - [Footer](https://github.com/bavichugo/quick-snippets/tree/main/src/components/Footer)
+ 
+  ### Reusable Layout Component (keeping footer where it belongs)
+  - [Layout file](https://github.com/bavichugo/quick-snippets/tree/main/src/app)
 
   ### Responsive NextJS 13 Layout (navigation, content, footer)
 
