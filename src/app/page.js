@@ -3,12 +3,7 @@ export default function Home() {
     <div>
       <h1 className="text-white text-9xl">Hello</h1>
       <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
-      <h1 className="text-white text-9xl">Hello</h1>
+      
     </div>
   )
 }

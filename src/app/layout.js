@@ -1,6 +1,6 @@
 import './globals.css'
 import Navbar1 from '@/components/NavBar/NavBar1'
-import Footer2 from '@/components/Footer/Footer2'
+import Footer1 from '@/components/Footer/Footer1'
 
 export const metadata = {
   title: 'Quick Script',
@@ -13,11 +13,12 @@ export default function RootLayout({ children }) {
       <body className="flex flex-col min-h-screen">
         <div className=''>
           <Navbar1 />
-          <main className='bg-black'>
+          <main className='bg-black container mx-auto'>
             {children}
           </main>
         </div>
-        <Footer2 />
+
+        <Footer1 />
       </body>
     </html>
   )

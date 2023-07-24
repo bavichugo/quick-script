@@ -72,8 +72,8 @@ const FOOTER_SOCIAL_MEDIA_LINKS = [
 
 const Footer2 = () => {
   return (
-    <footer className="bg-gray-900">
-      <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+    <footer className="bg-gray-900 mt-auto">
+      <div className="mx-auto w-full container p-4 py-6 lg:py-8">
         
         {/* ---------- Top Footer ---------- */}
         <div className="md:flex md:justify-between">

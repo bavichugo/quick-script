@@ -24,7 +24,7 @@ const FOOTER_ITEMS = [
 const Footer1 = () => {
   return (
     <footer className="bg-gray-800 mt-auto">
-      <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+      <div className="w-full mx-auto container p-4 md:flex md:items-center md:justify-between">
         <span className="text-sm sm:text-center text-gray-400">
           © 2023{" "}
           <a href="https://flowbite.com/" className="hover:underline">
